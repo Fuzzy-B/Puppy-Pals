@@ -40,3 +40,15 @@
 .read-the-docs {
   color: #888;
 }
+
+.featPup {
+  border: 2px black;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+p {
+  background-color: salmon;
+  border-radius: 10px;
+}
